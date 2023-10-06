@@ -37,7 +37,7 @@ class _SecondPageState extends State<SecondPage> {
               Container(
 
 
-                  height: 70,
+                  height: 80,
                   width: 70,
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(40),
